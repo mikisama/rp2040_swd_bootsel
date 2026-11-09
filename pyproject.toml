@@ -1,0 +1,7 @@
+[project]
+name = "pyocd_rp2040_utils"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "pyocd>=0.46.1",
+]
