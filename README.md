@@ -1,6 +1,6 @@
 # Enter/Exit RP2040 BOOTSEL Mode via SWD
 
-Toggle an RP2040 between USB BOOTSEL (mass-storage bootloader) and normal application mode over SWD, without unplugging or holding the BOOTSEL button.
+Toggle an RP2040 between USB BOOTSEL and normal application mode over SWD, without unplugging or holding the BOOTSEL button.
 
 ## Prerequisites
 
